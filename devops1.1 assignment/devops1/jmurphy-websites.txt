@@ -1,0 +1,2 @@
+EC2 website: http://98.81.83.154
+S3 website: http://lovnw5-jmurphy.s3-website-us-east-1.amazonaws.com
